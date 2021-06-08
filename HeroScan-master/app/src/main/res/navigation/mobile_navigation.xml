@@ -16,12 +16,12 @@
         android:id="@+id/navigation_dashboard"
         android:name="com.bangkit.heroscan.ui.dashboard.DashboardFragment"
         android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_scan" />
 
     //notification
     <fragment
         android:id="@+id/navigation_notifications"
         android:name="com.bangkit.heroscan.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_favorite" />
 </navigation>
