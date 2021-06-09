@@ -1,0 +1,10 @@
+com/bangkit/heroscan/BuildConfig.java
+ com.bangkit.heroscan.BuildConfig
+com/bangkit/heroscan/databinding/FragmentHomeBinding.java
+ com.bangkit.heroscan.databinding.FragmentHomeBinding
+com/bangkit/heroscan/databinding/ActivityMainBinding.java
+ com.bangkit.heroscan.databinding.ActivityMainBinding
+com/bangkit/heroscan/databinding/FragmentNotificationsBinding.java
+ com.bangkit.heroscan.databinding.FragmentNotificationsBinding
+com/bangkit/heroscan/databinding/FragmentDashboardBinding.java
+ com.bangkit.heroscan.databinding.FragmentDashboardBinding

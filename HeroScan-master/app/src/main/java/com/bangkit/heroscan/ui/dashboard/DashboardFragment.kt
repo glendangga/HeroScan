@@ -1,6 +1,9 @@
 package com.bangkit.heroscan.ui.dashboard
 
+import android.graphics.Camera
+import android.hardware.Camera.open
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -9,6 +12,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.bangkit.heroscan.R
+import java.nio.channels.AsynchronousFileChannel.open
 
 class DashboardFragment : Fragment() {
 
@@ -28,4 +32,6 @@ class DashboardFragment : Fragment() {
     })
     return root
   }
+
+
 }

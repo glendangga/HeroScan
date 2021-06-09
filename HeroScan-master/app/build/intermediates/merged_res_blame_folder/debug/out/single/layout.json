@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\College\\Term 6\\Bangkit Academy\\HeroScan\\HeroScan\\HeroScan-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "E:\\College\\Term 6\\Bangkit Academy\\HeroScan\\HeroScan\\HeroScan-master\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "E:\\College\\Term 6\\Bangkit Academy\\HeroScan\\HeroScan\\HeroScan-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\College\\Term 6\\Bangkit Academy\\HeroScan\\HeroScan\\HeroScan-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\College\\Term 6\\Bangkit Academy\\HeroScan\\HeroScan\\HeroScan-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "E:\\College\\Term 6\\Bangkit Academy\\HeroScan\\HeroScan\\HeroScan-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\College\\Term 6\\Bangkit Academy\\HeroScan\\HeroScan\\HeroScan-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "E:\\College\\Term 6\\Bangkit Academy\\HeroScan\\HeroScan\\HeroScan-master\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    }
+]
